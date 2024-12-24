@@ -1,6 +1,7 @@
 # SS-Archive
 Almost all Sound Space maps ever made by me (Robineesti11). Old official maps, community maps and other finished maps.
 I tried to group them into their own folders as well as I can remember.
+Pls tell me if I made a mistake somewhere (map that isn't actually mine, wrong map data, wrong name etc.)
 
 # How to play
 Select the map you wanna play and click "Raw" to open the raw Github page of the file, then copy the URL and paste it into the game.
