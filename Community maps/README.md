@@ -7,7 +7,7 @@ The first three maps I made was:
 2. Teminite - A New Dawn
 3. Creo - Idolize
 
-First two maps were made without using BPM, third one i tried using it but having guessed the bpm, it kinda came out like shit.
+First two maps were made without using BPM, third one i tried using it, but having guessed the bpm it kinda came out like shit.
 
 Maps I suggest playing here most are:
 Dimrain47 - Operation: Evolution
