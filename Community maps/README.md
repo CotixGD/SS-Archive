@@ -10,8 +10,8 @@ The first three maps I made was:
 First two maps were made without using BPM, third one i tried using it, but having guessed the bpm it kinda came out like shit.
 
 Maps I suggest playing here most are:
-Dimrain47 - Operation: Evolution
-Dustvoxx - Trigger (Zekk Remix)
-Teminite - A New Dawn
+- Dimrain47 - Operation: Evolution
+- Dustvoxx - Trigger (Zekk Remix)
+- Teminite - A New Dawn
 
 Some of these maps are listed here too: https://docs.google.com/spreadsheets/d/1sMbPo6MUBi9JQDqwCFH__g-iSVSTFmjgQ_qC_RGXu74/edit?gid=1387001352#gid=1387001352
