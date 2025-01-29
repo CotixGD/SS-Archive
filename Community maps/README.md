@@ -1,5 +1,5 @@
-# New maps:
-Maps that I've made after 2024.
+# New maps
+Maps that I've made after 2024:
 - Frums - memoryfactory.lzh
 
 # Most maps here ranked by difficulty and quality
