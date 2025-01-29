@@ -1,3 +1,7 @@
+# New maps:
+Maps that I've made after 2024.
+- Frums - memoryfactory.lzh
+
 # Most maps here ranked by difficulty and quality
 ![pilt](https://github.com/user-attachments/assets/aefdd7b8-e996-4b40-9907-010444f105cf)
 
